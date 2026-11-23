@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log
+qa-automation-framework/rca-reports/
+qa-automation-framework/playwright-artifacts/
